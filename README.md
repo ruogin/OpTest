@@ -7,5 +7,8 @@ Other projects and sources used:
 
 Source code desined with Netbeans IDE 8.1 for java 1.8.x
 
+Version 0.0.0b
+* Initial version extention
+
 Version 0.0.0a
 * Initial version
